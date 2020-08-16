@@ -1,2 +1,3 @@
 # tidb_plan
-tidb
+tidb 课程笔记和作业记录
+
